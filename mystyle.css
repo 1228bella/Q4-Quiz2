@@ -1,0 +1,107 @@
+body {
+	background-image: url(https://media.cntraveler.com/photos/6500a34168e3abb84b23d51d/master/pass/Dubai%20International%20Airport%20GettyImages-854142956.png);
+	background-size: cover;
+	font-famiLy: monospace;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
+	}
+	
+.header {
+			text-align: center;
+			background-color: gray;
+			background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84); 
+			opacity: .9;
+		
+		}
+
+.description {
+			text-align: center; 
+			background-color: gray; 
+			opacity: .9;
+}
+
+.firstlevel {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-item: center;
+}
+
+
+.secondlevel {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-item: center;
+}
+
+
+.section1 {
+			border:1px solid black;
+			width: 350px; background-color :white;width: 350px;
+			padding: 10px;
+			text-align: center;
+			margin: 10px;
+			box-shadow: 10px 8px 6px 0px rgba(0, 0,0, 0.15);
+			-webkit-box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+			-moz-box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+			
+}
+
+.section1info {
+			border: 1px solid black;
+			width: 350px; background-color :white;width: 350px;
+			padding: 10px;
+			text-align: center;
+			margin: 10px;
+			box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+			-webkit-box-shadow: 10px 8px 6px 0px rgba(0,0, 0,0.15);
+			-moz-box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+}
+
+.section2 {
+			border: 1px solid black;
+			width: 350px; background-color :white;width: 350px;
+			padding: 10px;
+			text-align: center;
+			margin: 10px;
+			box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+			-webkit-box-shadow: 10px 8Dx 6px @px raba(0.0.0.8.15);
+			-moz-box-shadow: 10px 8ox 6Dx 0px raba(0.0.0.0.15);
+}
+
+.section2info {
+			border:1px solid black;
+			width: 350px; background-color :white;width: 350px;
+			padding: 10px;
+			text-align: center;
+			margin:10px;
+			box-shadow: 10px 8px 6px 0px rgba(0,0, 0, 0.15);
+			-webkit-box-shadow: 10px 8px 6px 0px rgba(0,0,0, 0.15);
+			-moz-box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+}
+
+.section3 {
+			border: 1px solid black;
+			width: 350px; background-color :white;width: 350px;
+			padding: 10px;
+			text-align: center;
+			box-shadow: 10px 8px 6px 0px rgba(0,0, 0, 0.15);
+			-webkit-box-shadow: 10px 8px 6px 0px rgba(0,0,0, 0.15);
+			-moz-box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+}
+.section3info {
+			border :1px solid black;
+			width: 350px; background-color :white;width: 350px;
+			padding: 10px;
+			text-align: center;
+			margin: 10px;
+			box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+			-webkit-box-shadow: 10px 8px 6px 0px rgba(0,0, 0, 0.15);
+			-moz-box-shadow: 10px 8px 6px 0px rgba(0,0,0,0.15);
+}
+
+.footer {
+			background-color: white;
+		}
